@@ -20,6 +20,8 @@ Passionate data-driven problem solver leveraging machine learning and data engin
 *   **Version Control/DevOps Platforms:** GitHub, Azure DevOps
 *   **LLM Frameworks:** Langchain, LangSmith
 *   **Vector Databases:** Pinecone
+
+  ![alt-text](https://github.com/NagarjunaD024/NagarjunaD024/blob/main/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 <!--
 **NagarjunaD024/NagarjunaD024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
