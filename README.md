@@ -14,7 +14,7 @@ Passionate data-driven problem solver leveraging machine learning and data engin
 *   **Visualization:** matplotlib, seaborn, bokeh, Plotly/Dash, streamlit
 *   **Machine Learning:** scikit-learn, statsmodels, TensorFlow, PyTorch
 *   **Model Serving:** FastAPI
-*   **Experiment Monitoring:** MLflow, NannyML
+*   **Experiment Monitoring:** MLflow
 *   **Orchestration:** Airflow
 *   **Cloud Platforms:** Azure, AWS
 *   **Version Control/DevOps Platforms:** GitHub, Azure DevOps
