@@ -9,6 +9,7 @@ Passionate data-driven problem solver leveraging machine learning and data engin
 ### Toolset
 
 *   **General Coding:** Python
+*   **Web Development:** Django
 *   **Data Wrangling:** pandas, SQL, PySpark
 *   **Data Validation:** pydantic
 *   **Visualization:** matplotlib, seaborn, bokeh, Plotly/Dash, streamlit
