@@ -5,8 +5,7 @@ Here are some ideas to get you started:
 -->
 
 
-Passionate data-driven problem solver leveraging machine learning and data engineering to create exceptional customer experiences and deliver measurable business value. I excel at combining a principle-first approach with practical application, designing robust data pipelines, and applying MLOps methodologies to develop and deploy scalable cloud-based data science solutions. 
-### Toolset
+Passionate data-driven problem solver leveraging data engineering to create platform for handling data. I excel at combining a principle-first approach with practical application, designing robust data pipelines, and getting value out of data by tranforming data into business insights.
 
 *   **General Coding:** Python
 *   **Web Development:** Django
