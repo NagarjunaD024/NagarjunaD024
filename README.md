@@ -29,6 +29,7 @@ My core strengths:
 *   **Orchestration:** Airflow
 *   **Cloud Platforms:** Azure, AWS
 *   **Version Control/DevOps Platforms:** GitHub, Azure DevOps
+*    **Iac:** Terraform, Docker
 *   **LLM Frameworks:** Langchain, LangSmith
 *   **Vector Databases:** Pinecone
 
