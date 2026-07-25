@@ -7,20 +7,12 @@ Here are some ideas to get you started:
 
 Analytical Data Professional with an M.Sc. in Data Analytics & Decision Sciences from RWTH Aachen with 3 years hands-on experience turning raw data into business value.
 
-
-
 I specialise in end-to-end data solutions from designing scalable data pipelines and modern data architectures (Data Warehouse, Data Lakehouse) to developing BI dashboards that translate complex KPIs into clear decisions for management.
 
-
-
 My core strengths:
-
 🔹 Data Engineering — Building reliable ETL/ELT pipelines with Apache Airflow, DWH, PySpark, and dbt for downstream analytics.
-
 🔹 Data Architecture — Designing Lakehouse and Warehouse solutions that balance scalability, governance, and performance.
-
 🔹 Business Intelligence — Collaborating with departments to define KPI logic and delivering Power BI dashboards that drive operational insight.
-
 🔹 AI & LLMs — Integrating Large Language Models into business workflows to unlock the next layer of intelligent analytics.
 
 
