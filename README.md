@@ -5,13 +5,28 @@ Here are some ideas to get you started:
 -->
 
 
-Passionate data-driven problem solver leveraging data engineering to create platform for handling data. I excel at combining a principle-first approach with practical application, designing robust data pipelines, and getting value out of data by tranforming data into business insights.
+Analytical Data Professional with an M.Sc. in Data Analytics & Decision Sciences from RWTH Aachen with 3 years hands-on experience turning raw data into business value.
+
+
+
+I specialise in end-to-end data solutions from designing scalable data pipelines and modern data architectures (Data Warehouse, Data Lakehouse) to developing BI dashboards that translate complex KPIs into clear decisions for management.
+
+
+
+My core strengths:
+
+🔹 Data Engineering — Building reliable ETL/ELT pipelines with Apache Airflow, DWH, PySpark, and dbt for downstream analytics.
+
+🔹 Data Architecture — Designing Lakehouse and Warehouse solutions that balance scalability, governance, and performance.
+
+🔹 Business Intelligence — Collaborating with departments to define KPI logic and delivering Power BI dashboards that drive operational insight.
+
+🔹 AI & LLMs — Integrating Large Language Models into business workflows to unlock the next layer of intelligent analytics.
+
 
 *   **General Coding:** Python
-*   **Web Development:** Django
 *   **Data Wrangling:** pandas, SQL, PySpark
 *   **Data Validation:** pydantic
-*   **Visualization:** matplotlib, seaborn, bokeh, Plotly/Dash, streamlit
 *   **Machine Learning:** scikit-learn, statsmodels, TensorFlow, PyTorch
 *   **Model Serving:** FastAPI
 *   **Experiment Monitoring:** MLflow
