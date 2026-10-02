@@ -11,7 +11,7 @@ I specialise in end-to-end data solutions from designing scalable data pipelines
 
 My core strengths:
 
-🔹 Data Engineering — Building reliable ETL/ELT pipelines with Apache Airflow, DWH, PySpark, and dbt for downstream analytics.
+🔹 Data Engineering — Building reliable ETL/ELT pipelines with Apache Airflow, DWH (Snowflake), PySpark, and dbt for downstream analytics.
 
 🔹 Data Architecture — Designing Lakehouse and Warehouse solutions that balance scalability, governance, and performance.
 
